@@ -1,13 +1,17 @@
 ﻿# Test-task-Product
 
 * 1. [Как запустить локально](#Какзапуститьлокально)
+* 2. [Как увидеть базу данных](#Какувидетьбазуданных)
 
 ## <a name='Какзапуститьлокально'>Как запустить локально </a>
 скачать zip файл и извлечь, после открыть файл Market.sln и запустить
-![Swagger](C:/Users/primzhanov.z/Pictures/swagger.png)
-DataBase
-https://member5.smarterasp.net/cp/cp_screen
+![Swagger](/images/swagger.png)
+дальше уже мы можем добавлять, удалять, обновлять, увидеть что находиться в указанном странице и также скачать csv file.
+
+## <a name='Какувидетьбазуданных'>Как увидеть базу данных </a>
+надо пройти по этой ссылке https://member5.smarterasp.net/cp/cp_screen
+и ввести эти данный на указанные поля
 login: zangar001
 password: Almaty2024
-
+![database](/images/db1.png)
 
