@@ -27,7 +27,7 @@ password: Almaty2024
 ![database](/images/db5.png)
 после входа мы видим наш бд
 ![database](/images/db7.png)
-а если хотите увидет данные которые мы добавили мы входим mssql
+а если хотите увидет данные которые мы добавили и отредактировали мы входим mssql
 ![database](/images/db8.png)
 вводим те же данные которые ввели сюда
 ![database](/images/db6.png)
